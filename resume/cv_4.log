@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  19 OCT 2013 13:42
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  19 OCT 2013 18:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -80,7 +80,7 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen112
 \Gm@dimlist=\toks16
 )
-No file cv_4.aux.
+(./cv_4.aux)
 \openout1 = `cv_4.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
@@ -95,6 +95,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
 LaTeX Font Info:    ... okay on input line 29.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
 LaTeX Font Info:    ... okay on input line 29.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -156,8 +157,8 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 121.
  [2] (./cv_4.aux) ) 
 Here is how much of TeX's memory you used:
- 888 strings out of 493488
- 12118 string characters out of 3141326
+ 890 strings out of 493488
+ 12136 string characters out of 3141326
  69677 words of memory out of 3000000
  4238 multiletter control sequences out of 15000+200000
  7639 words of font info for 27 fonts, out of 3000000 for 9000
@@ -169,7 +170,7 @@ ts/cm/cmbx12.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfont
 s/cm/cmr10.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmsy10.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/c
 m/cmti10.pfb>
-Output written on cv_4.pdf (2 pages, 81498 bytes).
+Output written on cv_4.pdf (2 pages, 81500 bytes).
 PDF statistics:
  31 PDF objects out of 1000 (max. 8388607)
  21 compressed objects within 1 object stream
